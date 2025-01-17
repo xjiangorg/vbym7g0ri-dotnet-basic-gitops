@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vbym7g0ri-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/vbym7g0ri-dotnet-basic-gitops
